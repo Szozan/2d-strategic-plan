@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+          "id": "Vision",
+		  "text": "Vision: An equity-minded educator workforce that facilitates learning and growth for each and every student."
+        },
+        {
+          "id": "Mission",
+		  "text": "Mission: To strengthen the educator workforce through professional standards, policy, and innovation."
+        },
+        {
+          "id": "Value: 1",
+		  "text": "Value: Educator voice"
+        },
+        {
+          "id": "Value: 2",
+		  "text": "Value: Diversity, equity, and inclusion"
+        },
+        {
+          "id": "Value: 3",
+		  "text": "Value: Educator excellence for student success"
+        },
+        {
+          "id": "Value: 4",
+		  "text": "Value: Community engagement"
+        },
+        {
+          "id": "Value: 5",
+		  "text": "Value: Learning and innovation"
+        },
+        {
+          "id": "Access/Identify",
+		  "text": "Educator Career Continuum Area - Access/Identify: Educator candidates are exploring pathways to a career in education."
+        },
+        {
+          "id": "Prepare",
+		  "text": "Educator Career Continuum Area - Prepare: Preparation programs are developing candidates to meet and exceed educator standards. "
+        },
+        {
+          "id": "Place",
+		  "text": "Educator Career Continuum Area - Place: Students are receiving instruction and services from properly credentialed educators."
+        },
+        {
+          "id": "Retain",
+		  "text": "Educator Career Continuum Area - Retain: Educators are engaged in a fulfilling and supportive work environment."
+        },
+        {
+          "id": "Growth/Transition",
+		  "text": "Educator Career Continuum Area - Growth/Transition: Educators are advancing their career, and enhancing their professional skills."
+        },
+        {
+          "id": "Goal 1",
+		  "text": "Goal 1: Washington's educator candidates have multiple pathways to explore and access a career in education."
+        },
+        {
+          "id": "Goal 2",
+		  "text": "Goal 2: Washington’s educator candidates reflect the demographics of our student population."
+        },
+        {
+          "id": "Goal 3",
+		  "text": "Goal 3: Educators are prepared with the knowledge, skills, and dispositions to facilitate learning for all students."
+        },
+        {
+          "id": "Goal 4",
+		  "text": "Goal 4: All educators are appropriately credentialed for their assignment."
+        },
+        {
+          "id": "Goal 5",
+		  "text": "Goal 5: Educators persist in the profession while engaged in a fulfilling and supportive work environment."
+        },
+        {
+          "id": "Goal 6",
+		  "text": "Goal 6: Educators have multiple opportunities for learning and growth that best support their career goals."
+        },
+        {
+          "id": "Objective 1a",
+		  "text": "Objective 1a: Remove institutional barriers for candidates wanting to participate in the educator workforce."
+        },
+        {
+          "id": "Objective 1b",
+		  "text": "Objective 1b: Increase equitable pathways into the profession, such as “grow your own” educator programs."
+        },
+        {
+          "id": "Objective 1c",
+		  "text": "Objective 1c: Support incentives for candidates pursuing a pathway towards certification in an educator shortage area."
+        },
+        {
+          "id": "Objective 2a",
+		  "text": "Objective 2a: Increase outreach efforts to promote educator pathway opportunities."
+        },
+        {
+          "id": "Objective 2b",
+		  "text": "Objective 2b: Facilitate collaborative community partnerships to support programs that are responsive to regional workforce needs."
+        },
+        {
+          "id": "Objective 2c",
+		  "text": "Objective 2c: Expand access to support services and resources for underrepresented individuals pursuing a career in education."
+        },
+        {
+          "id": "Objective 3a",
+		  "text": "Objective 3a: Increase and improve culturally responsive and antiracist education for educators and preparation programs."
+        },
+        {
+          "id": "Objective 3b",
+		  "text": "Objective 3b: Strengthen educator preparation through program evaluation for continuous improvement."
+        },
+        {
+          "id": "Objective 3c",
+		  "text": "Objective 3c: Increase technical assistance to preparation programs, districts, and community partners to improve the performance of educators and programs."
+        },
+        {
+          "id": "Objective 3d",
+		  "text": "Objective 3d: Improve the educator assessment system with policies that advance equitable practices, center student success, and are responsive to educator needs."
+        },
+        {
+          "id": "Objective 4a",
+		  "text": "Objective 4a: Increase statewide funding to support districts in providing required paraeducator training."
+        },
+        {
+          "id": "Objective 4b",
+		  "text": "Objective 4b: Increase district use of strategies to reduce out of endorsement placements."
+        },
+        {
+          "id": "Objective 4c",
+		  "text": "Objective 4c: Improve educator placement to support district workforce needs."
+        },
+        {
+          "id": "Objective 4d",
+		  "text": "Objective 4d: Increase collaborative learning between districts and preparation programs to share promising practices for educator placement in shortage areas."
+        },
+        {
+          "id": "Objective 5a",
+		  "text": "Objective 5a: Increase data tracking on factors that influence educator persistence and retention."
+        },
+        {
+          "id": "Objective 5b",
+		  "text": "Objective 5b: Increase and elevate retention strategies, such as HR practices and mentorships, that better support educators of color throughout the continuum of their career."
+        },
+        {
+          "id": "Objective 5c",
+		  "text": "Objective 5c: Explore and expand a system of ethics and conduct in which educators are treated with dignity and respect."
+        },
+        {
+          "id": "Objective 6a",
+		  "text": "Objective 6a: Increase equitable opportunities for educators to add credentials and access professional learning options."
+        },
+        {
+          "id": "Objective 6b",
+		  "text": "Objective 6b: Expand and improve areas of focused learning for all educator roles, particularly in culturally responsive and anti-racist practices."
+        },
+        {
+          "id": "Objective 6c",
+		  "text": "Objective 6c: Streamline the professional learning system to better track and recognize the growth and achievements of educators."
+        }
+    ],
+    "links": [
+        {
+            "source": "Value: 1",
+            "target": "Vision"
+        },
+		 {
+            "source": "Value: 2",
+            "target": "Vision"
+        },
+		{
+            "source": "Mission",
+            "target": "Vision"
+        },
+		 {
+            "source": "Value: 3",
+            "target": "Vision"
+        },
+		 {
+            "source": "Value: 4",
+            "target": "Vision"
+        },
+		 {
+            "source": "Value: 5",
+            "target": "Vision"
+        },
+		 {
+            "source": "Access/Identify",
+            "target": "Mission"
+        },
+		 {
+            "source": "Prepare",
+            "target": "Mission"
+        },
+		 {
+            "source": "Place",
+            "target": "Mission"
+        },
+		 {
+            "source": "Retain",
+            "target": "Mission"
+        },
+		 {
+            "source": "Growth/Transition",
+            "target": "Mission"
+        },
+		 {
+            "source": "Goal 1",
+            "target": "Access/Identify"
+        },
+		 {
+            "source": "Goal 2",
+            "target": "Access/Identify"
+        },
+		 {
+            "source": "Goal 3",
+            "target": "Prepare"
+        },
+		 {
+            "source": "Goal 4",
+            "target": "Place"
+        },
+		 {
+            "source": "Goal 5",
+            "target": "Retain"
+        },
+		 {
+            "source": "Goal 6",
+            "target": "Growth/Transition"
+        },
+		 {
+            "source": "Access/Identify",
+            "target": "Prepare"
+        },
+		 {
+            "source": "Prepare",
+            "target": "Place"
+        },
+		 {
+            "source": "Place",
+            "target": "Retain"
+        },
+		 {
+            "source": "Retain",
+            "target": "Growth/Transition"
+        },
+		 {
+            "source": "Growth/Transition",
+            "target": "Access/Identify"
+        },
+		 {
+            "source": "Objective 1a",
+            "target": "Goal 1"
+        },
+		 {
+            "source": "Objective 1b",
+            "target": "Goal 1"
+        },
+		 {
+            "source": "Objective 1c",
+            "target": "Goal 1"
+        },
+		 {
+            "source": "Objective 2a",
+            "target": "Goal 2"
+        },
+		 {
+            "source": "Objective 2b",
+            "target": "Goal 2"
+        },
+		 {
+            "source": "Objective 2c",
+            "target": "Goal 2"
+        },
+		 {
+            "source": "Objective 3a",
+            "target": "Goal 3"
+        },
+		 {
+            "source": "Objective 3b",
+            "target": "Goal 3"
+        },
+		 {
+            "source": "Objective 3c",
+            "target": "Goal 3"
+        },
+		 {
+            "source": "Objective 3d",
+            "target": "Goal 3"
+        },
+		 {
+            "source": "Objective 4a",
+            "target": "Goal 4"
+        },
+		 {
+            "source": "Objective 4b",
+            "target": "Goal 4"
+        },
+		 {
+            "source": "Objective 4c",
+            "target": "Goal 4"
+        },
+		 {
+            "source": "Objective 4d",
+            "target": "Goal 4"
+        },
+		 {
+            "source": "Objective 5a",
+            "target": "Goal 5"
+        },
+		 {
+            "source": "Objective 5b",
+            "target": "Goal 5"
+        },
+		 {
+            "source": "Objective 5c",
+            "target": "Goal 5"
+        },
+		 {
+            "source": "Objective 6a",
+            "target": "Goal 6"
+        },
+		 {
+            "source": "Objective 6b",
+            "target": "Goal 6"
+        },
+		 {
+            "source": "Objective 6c",
+            "target": "Goal 6"
+        }		
+    ]
+}
